@@ -1,0 +1,10 @@
+What is the correct file extension for Python files?|3|.pt|.pyth|.py|.ptx
+How do you create a variable with the value 5?|2|let x = 5|x = 5|int x = 5|val x = 5
+Which of the following is a correct way to start a function in Python?|1|def function_name():|func function_name():|function function_name():|def function_name:
+Which of the following data types is immutable in Python?|3|List|Dictionary|Tuple|Set
+How do you insert comments in Python?|4|// This is a comment|# This is a comment|/* This is a comment */|#This is a comment
+What is the output of: print(type([]))?|2|<class 'tuple'>|<class 'list'>|<class 'dict'>|<class 'set'>
+What does the 'len()' function do?|1|Returns the length of a list|Removes an element from a list|Sorts the elements of a list|Reverses the elements of a list
+Which of the following is a valid list in Python?|3|[1,2,3]|{1,2,3}|[1,'apple',3.5]|(1,2,3)
+Which of the following is NOT a keyword in Python?|2|elif|switch|True|None
+How do you define a block of code in Python?|4|Using curly braces|Using parentheses|Using square brackets|Using indentation
